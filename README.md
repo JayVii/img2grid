@@ -26,3 +26,14 @@ Copyright (C) 2018 Jan "JayVii" <jayvii@posteo.de>
 
 See Licenses [here](/LICENSES).
 
+## Results
+
+The actual result is a PDF file in the form of: [me.pdf](./out/me.pdf).
+
+Transformed to PDF:
+
+```
+ convert -density 100 me.pdf me.png
+```
+
+![Result](./out/me.png)

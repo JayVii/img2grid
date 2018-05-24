@@ -11,7 +11,7 @@ library("geosphere")
 # }}}
 
 # Import image, grayscale, filter, and sample image {{{ ----
-file <- "~/face.jpg"
+file <- "~/face.jpg" # not contained in repo ;)
 
 # Kudos: @aschinchon
 # https://github.com/aschinchon/travelling-salesman-portrait/
@@ -38,7 +38,7 @@ for(i in 1:length(data_st$x)){
 # plot the result {{{ ----
 
 # we want a PDF file from that (10" x 10")
-pdf(file = "~/me.pdf", height = 10, width = 10)
+pdf(file = "~/out/me.pdf", height = 10, width = 10)
 
     # without margins around plot
     par(mar=c(0, 0, 0, 0))
