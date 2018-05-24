@@ -9,7 +9,10 @@
 
 * Libre Graphics: CC-BY-4.0
 
-- R: 3.3.3
+* R: 3.3.3
+
+* inspired by [@aschinchon](https://github.com/aschinchon)'s
+  [travelling salesman](https://github.com/aschinchon/travelling-salesman-portrait)
 
 ## Maintainers
 
